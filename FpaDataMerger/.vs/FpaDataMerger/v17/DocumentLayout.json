@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\FpaDataMerge\\FpaDataMerger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\FpaDataMerge\\data\\newResults.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBAFB11-58FD-432E-96BB-6E375484FE2C}|EventMerger\\EventMerger.csproj|c:\\github\\fpadatamerge\\fpadatamerger\\eventmerger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBAFB11-58FD-432E-96BB-6E375484FE2C}|EventMerger\\EventMerger.csproj|solutionrelative:eventmerger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\FpaDataMerge\\data\\eventIdMapping.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6939B91F-CB51-497B-BBA2-436971E8D743}|FpaDataMerger\\NameMerger.csproj|c:\\github\\fpadatamerge\\fpadatamerger\\fpadatamerger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6939B91F-CB51-497B-BBA2-436971E8D743}|FpaDataMerger\\NameMerger.csproj|solutionrelative:fpadatamerger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\FpaDataMerge\\data\\fullPlayerMapping.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\FpaDataMerge\\data\\ryanPlayers.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBAFB11-58FD-432E-96BB-6E375484FE2C}|EventMerger\\EventMerger.csproj|c:\\github\\fpadatamerge\\fpadatamerger\\eventmerger\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6EBAFB11-58FD-432E-96BB-6E375484FE2C}|EventMerger\\EventMerger.csproj|solutionrelative:eventmerger\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "newResults.json",
+              "DocumentMoniker": "C:\\Github\\FpaDataMerge\\data\\newResults.json",
+              "RelativeDocumentMoniker": "..\\data\\newResults.json",
+              "ToolTip": "C:\\Github\\FpaDataMerge\\data\\newResults.json",
+              "RelativeToolTip": "..\\data\\newResults.json",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T06:24:34.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "eventIdMapping.csv",
+              "DocumentMoniker": "C:\\Github\\FpaDataMerge\\data\\eventIdMapping.csv",
+              "RelativeDocumentMoniker": "..\\data\\eventIdMapping.csv",
+              "ToolTip": "C:\\Github\\FpaDataMerge\\data\\eventIdMapping.csv",
+              "RelativeToolTip": "..\\data\\eventIdMapping.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-10-17T05:52:11.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Github\\FpaDataMerge\\FpaDataMerger\\FpaDataMerger\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FpaDataMerger\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Github\\FpaDataMerge\\FpaDataMerger\\FpaDataMerger\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FpaDataMerger\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAtwNkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:56:29.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fullPlayerMapping.csv",
+              "DocumentMoniker": "C:\\Github\\FpaDataMerge\\data\\fullPlayerMapping.csv",
+              "RelativeDocumentMoniker": "..\\data\\fullPlayerMapping.csv",
+              "ToolTip": "C:\\Github\\FpaDataMerge\\data\\fullPlayerMapping.csv",
+              "RelativeToolTip": "..\\data\\fullPlayerMapping.csv",
+              "ViewState": "AgIAACQIAAAAAAAAAAAAAC8IAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-10-16T11:52:18.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ryanPlayers.csv",
+              "DocumentMoniker": "C:\\Github\\FpaDataMerge\\data\\ryanPlayers.csv",
+              "RelativeDocumentMoniker": "..\\data\\ryanPlayers.csv",
+              "ToolTip": "C:\\Github\\FpaDataMerge\\data\\ryanPlayers.csv",
+              "RelativeToolTip": "..\\data\\ryanPlayers.csv",
+              "ViewState": "AgIAAAgIAAAAAAAAAAAtwBAIAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-10-16T11:42:32.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Github\\FpaDataMerge\\FpaDataMerger\\EventMerger\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EventMerger\\MainWindow.xaml",
+              "ToolTip": "C:\\Github\\FpaDataMerge\\FpaDataMerger\\EventMerger\\MainWindow.xaml",
+              "RelativeToolTip": "EventMerger\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-07T08:13:39.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Github\\FpaDataMerge\\FpaDataMerger\\EventMerger\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EventMerger\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Github\\FpaDataMerge\\FpaDataMerger\\EventMerger\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EventMerger\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADsBAAAAAAAAAAAtwEwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:13:39.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

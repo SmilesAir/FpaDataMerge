@@ -1,0 +1,28 @@
+﻿<Window x:Class="FpaDataMerger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FpaDataMerger"
+        mc:Ignorable="d"
+        Title="Name Merger" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="leftListBox" Grid.ColumnSpan="2" ItemsSource="{Binding Path=LeftOutput, UpdateSourceTrigger=PropertyChanged}" SelectionChanged="leftListBox_SelectionChanged"/>
+        <ListBox x:Name="rightListBox" Grid.Column="2" Grid.ColumnSpan="2" ItemsSource="{Binding Path=RightOutput, UpdateSourceTrigger=PropertyChanged}" SelectionChanged="rightListBox_SelectionChanged"/>
+        <Button x:Name="connectButton" Grid.Row="1" Click="connectButton_Click">Connect</Button>
+        <Button x:Name="skipButton" Grid.Row="1" Grid.Column="1" Click="skipButton_Click">Ignore</Button>
+        <Button x:Name="omitButton" Grid.Row="1" Grid.Column="2" Click="omitButton_Click">Omit</Button>
+
+    </Grid>
+</Window>
